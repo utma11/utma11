@@ -1,4 +1,4 @@
-### Hi there 👋
+gh repo clone utma11/utma11### Hi there 👋
 
 <!--
 **utma11/utma11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: 1222...qla
+- ⚡ Fun fact: 1222...qlagh repo clone utma11/utma11
 -->
